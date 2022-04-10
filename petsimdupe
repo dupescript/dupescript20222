@@ -1,0 +1,2 @@
+-- @BuildIntoGames - Works at 8-BIT UPDATE. (NewDupe Method PSX) --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dupescript/dupesscript2022/main/dupescript2022"))()
